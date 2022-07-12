@@ -1,2 +1,2 @@
 # pych
-Interpreter with python as the host language, parsing custom syntax rules.
+Interpreter with Python as the host language, parsing custom syntax rules.
